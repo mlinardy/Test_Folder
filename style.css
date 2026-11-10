@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+  background: #fff;
+  color: #222;
+}
+
+#chart {
+  margin-top: 1rem;
+}
